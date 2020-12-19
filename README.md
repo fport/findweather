@@ -18,8 +18,7 @@ node add.js add --country="turkey"
 ![Screenshot from 2020-12-19 18-31-59](https://user-images.githubusercontent.com/56169582/102693117-4265eb00-4229-11eb-889b-7c92800a180f.png)
 
 ## 🏹 Npm packet 
-- You can click [here](https://www.npmjs.com/package/findweather) to try
-I ran into errors because it was my first experience.Anyway i fixed the problem😇
+- You can click [here](https://www.npmjs.com/package/findweather) to try.  
 
  
 ## 📔 Dependencies 
