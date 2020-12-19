@@ -1,0 +1,16 @@
+{
+  "name": "findweather",
+  "version": "2.0.0",
+  "description": "You get the information of the country entered",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "yargs": "^16.2.0"
+  }
+}
